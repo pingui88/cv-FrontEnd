@@ -1,0 +1,24 @@
+.foto-cv
+    {width: 100px;
+    margin: auto;
+    display: flex;}
+
+h1,h2 
+    {background-color: #c4c4c4;
+    color: #005677;
+    letter-spacing: 4px;}
+
+h1 {text-align: center;}
+
+.iconos {width: 20px;}
+
+footer 
+    {background-color: rgb(52, 103, 215);
+        text-align: center;
+    }
+
+.lista-fecha {list-style: none}
+
+li {line-height: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:medium}
